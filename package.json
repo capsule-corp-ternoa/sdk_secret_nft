@@ -1,0 +1,33 @@
+{
+  "name": "nft_api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "@nebulous/skynet": "^2.0.1",
+    "@polkadot/api": "^4.1.1",
+    "adm-zip": "^0.5.4",
+    "aws-sdk": "^2.893.0",
+    "axios": "^0.20.0",
+    "ciphersweet-js": "^1.4.1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "empty-folder": "^2.0.4",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "form-data": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "gpg": "^0.6.0",
+    "node-file-encrypt": "^0.0.5",
+    "node-zip": "^1.1.1",
+    "openpgp": "^5.0.0-1",
+    "path": "^0.12.7",
+    "polkadot": "^1.0.0",
+    "request": "^2.88.2",
+    "shamirs-secret-sharing": "^1.0.1",
+    "superagent": "^6.1.0",
+    "unzipper": "^0.10.11",
+    "zlib": "^1.0.5"
+  }
+}
